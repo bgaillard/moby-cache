@@ -1,0 +1,3 @@
+function() {
+    let a = "x";
+}

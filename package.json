@@ -1,0 +1,17 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "description": "sample",
+  "private": true,
+  "scripts": {},
+  "scriptsComments": {},
+  "keywords": [
+  ],
+  "author": "gdc",
+  "sasslintConfig": "assets/scss/sass-lint.yml",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
+
